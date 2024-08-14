@@ -1,5 +1,5 @@
 # CS_7643_DL_project
-CS 7643 Deep Learning Project
+CS 7643 Deep Learning Project: Effectiveness of Shape v. Texture Biased Image Recognition
 
 ### Abstract:
 The Primary purpose of our experiment was to in- vestigate the performance and generalizability of models on both stylized and unstylized image sets. Specifically, we aim to repeat the experiments “IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREAS- ING SHAPE BIAS IMPROVES ACCURACY AND ROBUST- NESS” published by University of Tubingen IMPRS-IS while also comparing the behavior of different types of im- age sets. Unlike the original study, we have also included models built for medical images, which tend to have a much higher focus on texture compared to most multiclass image sets. Each image category had a single model build, whose architecture and hyperparameters were optimized for the unstylized data.
